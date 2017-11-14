@@ -31,5 +31,5 @@ Before starting the bot you have to receive Telegrm bot key from [BotFather](htt
 
 **By default**, bot runs at port 8080 and searches for conf.json file.
 
-PS: all images in __resource__ folder are found via image search, I don't own it and I won't use for any commercial purpose.
+PS: all images in __resource__ folder are found via image search, I don't own it and I won't use it for any commercial purpose.
 
